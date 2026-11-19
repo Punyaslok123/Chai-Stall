@@ -1,0 +1,4 @@
+date,weekday,quantity_made,quantity_left,note
+2000-01-01,monday,10,2,TEST ONLY - not real data
+2000-01-02,tuesday,abc,2,bad number
+2000-01-03,wednesday,5,9,left more than made
